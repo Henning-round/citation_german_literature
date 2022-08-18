@@ -1,0 +1,4 @@
+data/* filter=lfs diff=lfs merge=lfs -text
+works filter=lfs diff=lfs merge=lfs -text
+works_references filter=lfs diff=lfs merge=lfs -text
+only_references_germanistik filter=lfs diff=lfs merge=lfs -text

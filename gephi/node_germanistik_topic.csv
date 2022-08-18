@@ -1,0 +1,386 @@
+Id,Label,color VARCHAR
+0,george lakoff,Sprachwissenschaft
+1,mayer hans,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+2,brecht bertolt,"Theater, Drama und Tragödie"
+3,mann klaus,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+4,mark johnson,Sprachwissenschaft
+5,androutsopoulos jannis k,Sprachgebrauch bei Kindern und Jugendlichen
+6,motsch wolfgang,Sprachgebrauch bei Kindern und Jugendlichen
+7,bräuer r,Mittelalter
+8,blank walter,Themen um Gewalt und Psychologie
+9,richter w,Lyrik
+10,stephens anthony r,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+11,wintersteiner werner,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+12,ruh kurt,Mittelalter
+13,kolb herbert,Philosophie
+14,jäger siegfried,Sprachwissenschaft
+15,albertsen elisabeth,Philosophie
+16,ricoeur paul,Sprachgebrauch bei Kindern und Jugendlichen
+17,kühne andreas,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+18,pinker s,Sprachgebrauch bei Kindern und Jugendlichen
+19,albes claudia,Textanalyse und Narratologie
+20,bünting karldieter,Kommunikationswissenschaften
+21,bachtin michail,Themen um Gewalt und Psychologie
+22,hahn i,Mittelalter
+23,kaiser ernst,Philosophie
+24,röcke w,Themen um Gewalt und Psychologie
+25,freund winfried,Textanalyse und Narratologie
+26,laplanche j,Themen um Gewalt und Psychologie
+27,gönner gerhard,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+28,kleist heinrich von,Philosophie
+29,hartmann von,Mittelalter
+30,eichendorff joseph,Textanalyse und Narratologie
+31,schirok bernd,Lyrik
+32,schwietering julius,Lyrik
+33,sperber d,Kommunikationswissenschaften
+34,margetts john,Themen um Gewalt und Psychologie
+35,meier albert,"Theater, Drama und Tragödie"
+36,de loecker armand,Textanalyse und Narratologie
+37,eisenberg peter,Sprachgebrauch bei Kindern und Jugendlichen
+38,jäger lorenz der,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+39,vaget hans rudolf,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+40,von torne,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+41,derrida jacques,Sprachwissenschaft
+42, buscha,Kommunikationswissenschaften
+43,dittmar n,Sprachwissenschaft
+44,rehbein jochen,Sprachgebrauch bei Kindern und Jugendlichen
+45,mann thomas „der,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+46,schänzlin gertrud,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+47,grimm reinholdt,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+48,duby georges,Mittelalter
+49,kühnel jürgen,Mittelalter
+50,grathoff dirk,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+51,frenzel elisabeth,Textanalyse und Narratologie
+52,kittler friedrich,Themen um Gewalt und Psychologie
+53,bachmann ingeborg,Textanalyse und Narratologie
+54,kielhöfer bernd,Sprachgebrauch bei Kindern und Jugendlichen
+55,jauss hans,Textanalyse und Narratologie
+56,bachorski hansjürgen,Themen um Gewalt und Psychologie
+57,michelsen peter goethes,Lyrik
+58,eckermann johann peter,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+59,fromm e,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+60,jackson david a,Philosophie
+61,redlinger w e,Sprachgebrauch bei Kindern und Jugendlichen
+62,hartung rudolf,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+63,müllerseidel walter,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+64,georg simmel,Philosophie
+65,jauß hans robert,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+66,müller heiner,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+67,wapnewski peter,Lyrik
+68,fried erich,Lyrik
+69,althoff gerd,Mittelalter
+70,keen maurice,Mittelalter
+71,kürschner wilfried,Sprachgebrauch bei Kindern und Jugendlichen
+72,curschmann michael,Lyrik
+73,koch peter,Sprachgebrauch bei Kindern und Jugendlichen
+74,schelle karl,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+75,portmann paul,Sprachwissenschaft
+76,heidegger m,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+77,wehdeking volker,Textanalyse und Narratologie
+78,hahn gerhard,Lyrik
+79,heinzle joachim,Mittelalter
+80,nietzsche friedrich,Philosophie
+81,dürrenmatt friedrich,"Theater, Drama und Tragödie"
+82,bartsch kurt,Themen um Gewalt und Psychologie
+83,chomsky noam,Sprachwissenschaft
+84,fühmann franz,Mittelalter
+85,fontane theodor,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+86,kurzenberger hajo,"Theater, Drama und Tragödie"
+87,hartmann cramer thomas,Mittelalter
+88,kühn dieter,Philosophie
+89,rohrwasser michael,Themen um Gewalt und Psychologie
+90,schmid elisabeth,Lyrik
+91,pingel r,Mittelalter
+92,chrétien de troyes,Textanalyse und Narratologie
+93,spiewok wolfgang,Lyrik
+94,franz kafka,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+95,hermand jost,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+96,wegera klauspeter,Sprachgebrauch bei Kindern und Jugendlichen
+97,bovenschen silvia,Philosophie
+98,canetti elias,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+99,grawe christian,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+100,kartschoke dieter,Mittelalter
+101,auer p,Sprachwissenschaft
+102,eco umberto,Mittelalter
+103,bienek horst,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+104,uz johann peter,Philosophie
+105,kurzke hermann,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+106,k aiser joachim,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+107,bisky jens,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+108,kracht christian faserland,Textanalyse und Narratologie
+109,wilpert gero,Textanalyse und Narratologie
+110,genesee fred,Sprachgebrauch bei Kindern und Jugendlichen
+111,maurer f,Mittelalter
+112,fechter paul,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+113,wulf joseph,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+114,meiners i,Mittelalter
+115,weber gottfried,Mittelalter
+116,mauser wolfram,Philosophie
+117,lessing g e,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+118,polenz von peter,Sprachgebrauch bei Kindern und Jugendlichen
+119,sembdner helmut,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+120,celan paul,Lyrik
+121,schiller friedrich,Mittelalter
+122,duden fremdwörterbuch,Sprachwissenschaft
+123,schmidtmühlisch lothar,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+124,kasper elke,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+125,goethe johann wolfgang,Philosophie
+126,goodz naomi s,Sprachgebrauch bei Kindern und Jugendlichen
+127,arntzen helmut,Philosophie
+128,scheffel michael,Textanalyse und Narratologie
+129,brall helmut,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+130,kraft thomas,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+131,fleischer wolfgang,Sprachgebrauch bei Kindern und Jugendlichen
+132,mentrup wolfgang,Sprachwissenschaft
+133,ehlert trude,Mittelalter
+134,turk horst,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+135,heine heinrich,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+136,elisabeth brocksulzer,Philosophie
+137,lenz jacob michael,Philosophie
+138,durchges aufl,"Theater, Drama und Tragödie"
+139,freud siegmund,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+140,gilles deleuze,Textanalyse und Narratologie
+141,müller götz,Philosophie
+142,schenk günter das,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+143,kiesel helmut,Philosophie
+144,von goethe johann,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+145,augenstein susanne,Sprachgebrauch bei Kindern und Jugendlichen
+146,müller jandirk,Mittelalter
+147,kluge friedrich,Sprachgebrauch bei Kindern und Jugendlichen
+148,rousseau jeanjacques,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+149,bumke joachim,Mittelalter
+150,kern p,Mittelalter
+151,klemperer victor,Textanalyse und Narratologie
+152,johnson l,Textanalyse und Narratologie
+153,monumenta germaniae,Lyrik
+154,mohr wolfgang,Lyrik
+155,curtius ernst robert,Lyrik
+156,benjamin walter,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+157,kuhn hugo,Lyrik
+158,helbig gerhardt,Kommunikationswissenschaften
+159,henderson i strickers,Mittelalter
+160,de boor helmut,Mittelalter
+161,schnell rüdiger,Mittelalter
+162,schnitzler arthur,Textanalyse und Narratologie
+163,schulze ursula,Mittelalter
+164,engel ulrich,Sprachwissenschaft
+165,von bornmann,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+166,walser robert,Textanalyse und Narratologie
+167,max frisch,Textanalyse und Narratologie
+168,schneider robert,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+169,rasch wolfdietrich,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+170,der stricker,Mittelalter
+171,morwitz ernst,Lyrik
+172,susan sontag,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+173,kwon sehoon,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+174,pulver elsbeth,"Theater, Drama und Tragödie"
+175,wittstock uwe günter,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+176,kohl gaby,Kommunikationswissenschaften
+177,benn gottfried,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+178,rost hans,Lyrik
+179,rzehak wolfgang,Philosophie
+180,jens w,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+181,schilling m,Mittelalter
+182,haeckel ernst heinrich,Sprachwissenschaft
+183,stadelmaier gerhard,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+184,czerwinski peter,Lyrik
+185,lessing gotthold,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+186,iden peter,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+187,grosjean f,Sprachgebrauch bei Kindern und Jugendlichen
+188,saussure ferdinand,Sprachwissenschaft
+189,knapp fritz peter,Mittelalter
+190,aust hugo,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+191,foucault michel,Themen um Gewalt und Psychologie
+192,see klaus,Mittelalter
+193,thomas anz,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+194,wolfram von eschenbach,Mittelalter
+195,ragotzky h,Mittelalter
+196,vigener gerhard,Sprachwissenschaft
+197,reichert hermann,Mittelalter
+198,lutz götze,Lyrik
+199,la fontaines“,Mittelalter
+200,schlaffer heinz,Lyrik
+201,kant immanuel,Philosophie
+202,arnold heinz,Textanalyse und Narratologie
+203,ammon u,Sprachwissenschaft
+204,gu yu,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+205,heinrich von kleist,Philosophie
+206,hartzell richard e,Philosophie
+207,strelka joseph p,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+208,ehrismann otfrid,Mittelalter
+209,chwin stefan,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+210,fasold regina,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+211,wurst karin a jrm,Philosophie
+212,grubmüller klaus,Mittelalter
+213,müller joachim,Lyrik
+214,thimm caja,Sprachwissenschaft
+215,meisel jürgen m,Sprachgebrauch bei Kindern und Jugendlichen
+216,ehrismann g,Mittelalter
+217,bach helmut,Themen um Gewalt und Psychologie
+218,hoffmann eta,Textanalyse und Narratologie
+219,weddige hilkert,Mittelalter
+220,taeschner t,Sprachgebrauch bei Kindern und Jugendlichen
+221,wellershoff dieter,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+222,brinker klaus,Sprachwissenschaft
+223,wright christopher,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+224,drawert kurt,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+225,barner wilfried,Philosophie
+226,norbert oellers,Textanalyse und Narratologie
+227,sucher c,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+228,neumann gerhard,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+229,völker klaus,"Theater, Drama und Tragödie"
+230,freud sigmund,Philosophie
+231,clahsen h,Sprachgebrauch bei Kindern und Jugendlichen
+232,augst g,Sprachgebrauch bei Kindern und Jugendlichen
+233,cormeau christoph,Mittelalter
+234,volterra v,Sprachgebrauch bei Kindern und Jugendlichen
+235,horkheimer max,Themen um Gewalt und Psychologie
+236,janz marlies,Lyrik
+237,mone franz,Lyrik
+238,grimm jacob,Mittelalter
+239,wisniewski roswithamittelalterliche,Mittelalter
+240,ernest w b hesslütich,Lyrik
+241,wittgenstein ludwig,Sprachwissenschaft
+242,hilzinger sonja,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+243,rilke rainer maria,Lyrik
+244,h henne,Sprachgebrauch bei Kindern und Jugendlichen
+245,rischbieter henning bertolt,"Theater, Drama und Tragödie"
+246,reuter hansheinrich,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+247,mugdan joachim,Sprachgebrauch bei Kindern und Jugendlichen
+248,wilson d,Kommunikationswissenschaften
+249,stolze radegundis,Sprachgebrauch bei Kindern und Jugendlichen
+250,fiddy andrea,Textanalyse und Narratologie
+251,splett jochen,Mittelalter
+252,büchner georg,Philosophie
+253,graf michael,Themen um Gewalt und Psychologie
+254,lennig walter,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+255,jens malte fischer,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+256,gumperz john,Sprachgebrauch bei Kindern und Jugendlichen
+257,park t,Sprachgebrauch bei Kindern und Jugendlichen
+258,bürger christa,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+259,max brod,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+260,schröder werner,Mittelalter
+261,hegel g,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+262,emmerich wolfgang,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+263,wehrli max,Mittelalter
+264,könneker b,"Religion, Glaube und Kirche"
+265,grimkowski sabine,Themen um Gewalt und Psychologie
+266,lexer matthias,Mittelalter
+267,große wilhelm,"Theater, Drama und Tragödie"
+268,kracauer siegfried,Textanalyse und Narratologie
+269,gottfried von,Mittelalter
+270,claude david stefan,Lyrik
+271,steinhagen harald,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+272,vinken barbara,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+273,darwin charles,Sprachwissenschaft
+274,rothemann sabine,Textanalyse und Narratologie
+275,schwenger hannes,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+276,hamm heinz,Mittelalter
+277,doering sabine,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+278,sahlberg oskar,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+279,schweikle günther,Lyrik
+280,spitzer manfred,Themen um Gewalt und Psychologie
+281,sören kierkegaard,Sprachwissenschaft
+282,de bruyn,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+283,bußmann hadumod,Sprachwissenschaft
+284,vater heinz,Sprachwissenschaft
+285,ehrismann otfried,Mittelalter
+286,vondung klaus,Themen um Gewalt und Psychologie
+287,karthaus ulrich sturm,Philosophie
+288,jünger ernst,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+289,venturelli aldo,Philosophie
+290,sciullo a,Sprachgebrauch bei Kindern und Jugendlichen
+291,e t a,Textanalyse und Narratologie
+292,schmidt jochen,Philosophie
+293,arendt h,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+294,martini fritz,"Theater, Drama und Tragödie"
+295,wolf alois,Lyrik
+296,lanza elizabeth,Sprachgebrauch bei Kindern und Jugendlichen
+297,baßler moritz,Textanalyse und Narratologie
+298,blessin stefan johann wolfgang,Philosophie
+299,ankum katharina,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+300,hartung harald weil,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+301,elias norbert,Mittelalter
+302,riedner nicola canettis,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+303,peil dietmar,Mittelalter
+304,orwell g,Lyrik
+305,wilhelm emrich,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+306,hoffman werner,Mittelalter
+307,hinze dagmar günter,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+308,ludewigt irmgard,Kommunikationswissenschaften
+309,george stefan,Lyrik
+310,mertens volker,Mittelalter
+311,linke angelika,Kommunikationswissenschaften
+312,wolf christa,Philosophie
+313,spengler oswald,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+314,kunert günter,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+315,bürger peter,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+316,dreslerbrumme charlotte,Philosophie
+317,spillner bernd,Sprachwissenschaft
+318,nussbaumer markus,Sprachgebrauch bei Kindern und Jugendlichen
+319,plessner helmut,Themen um Gewalt und Psychologie
+320,cormeau c,Mittelalter
+321,jäger ludwig,Sprachwissenschaft
+322,burckhardt judith,Philosophie
+323,link jürgen,Sprachwissenschaft
+324,haug walter,Mittelalter
+325,baumgart reinhard,Textanalyse und Narratologie
+326,mecklenburg norbert,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+327,jonekeit sylvie,Sprachgebrauch bei Kindern und Jugendlichen
+328,irigaray luce,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+329,weinrich harald,Sprachwissenschaft
+330,lewandowski theodor,Sprachwissenschaft
+331,gadamer hansgeorg,Lyrik
+332,jenny urs,"Theater, Drama und Tragödie"
+333,adorno theodor w,Philosophie
+334,bauer gerhard,Philosophie
+335,kurscheidt georg,Textanalyse und Narratologie
+336,koerfer armin,Sprachgebrauch bei Kindern und Jugendlichen
+337,stefani guido,Textanalyse und Narratologie
+338,alt peterandr,Philosophie
+339,ranke friedrich,Mittelalter
+340,gero von wilpert,Textanalyse und Narratologie
+341,pontalis jb,Themen um Gewalt und Psychologie
+342,jaspers karl,Textanalyse und Narratologie
+343,robert musil,Philosophie
+344,stark michael,Philosophie
+345,fisher rodney,Mittelalter
+346,stetter christian,Sprachwissenschaft
+347,martinez matias,Textanalyse und Narratologie
+348,steinmetz horst,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+349,schröder jürgen,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+350,paech joachim,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+351,von mattalbrecht beatrice eines,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+352,naumann h,Mittelalter
+353,széll zsuzsa,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+354,weinzierl ulrich,Textanalyse und Narratologie
+355,lessing gotthold e,"Politische Systme, Kriegs- und Nachkriegsliteratur"
+356,storm theodor,Philosophie
+357,prott jürgen,Kommunikationswissenschaften
+358,herder johann,Philosophie
+359,simrock dr karl,Mittelalter
+360,klüger ruth,Textanalyse und Narratologie
+361,hauser arnold,Textanalyse und Narratologie
+362,henne helmut,Kommunikationswissenschaften
+363,brant sebastian das,"Religion, Glaube und Kirche"
+364,braungart wolfgang,Lyrik
+365,nagel bert,Mittelalter
+366,gnam andrea,"Familienverhältnisse, Geschlechterrollen und Konflikte"
+367,riha ortrun,Themen um Gewalt und Psychologie
+368,mezger werner,"Religion, Glaube und Kirche"
+369,sarcinelli u,Kommunikationswissenschaften
+370,schönbach anton,Lyrik
+371,peters ursula,Lyrik
+372,knopf jan friedrich,Textanalyse und Narratologie
+373,störmer wilhelm,Mittelalter
+374,brunner horst,Lyrik
+375,schlobinski peter,Sprachgebrauch bei Kindern und Jugendlichen
+376,wiese benno,Textanalyse und Narratologie
+377, w,Sprachwissenschaft
+378,romaine suzanne,Sprachgebrauch bei Kindern und Jugendlichen
+379,müller christian,Themen um Gewalt und Psychologie
+380,heinrich wittenwiler,Themen um Gewalt und Psychologie
+381,agricola e,Mittelalter
+382,karasek hellmuth,Textanalyse und Narratologie
+383,paul hermann,Sprachgebrauch bei Kindern und Jugendlichen
+384,jauss hans robert,Textanalyse und Narratologie
